@@ -1,7 +1,8 @@
 - 👋 Hi, I'm Ben Yates. Thanks for looking at my Github profile!
 - 📫 Reach me at benuk78@gmail.com
 - 20 years Data Engineering & Analysis globally in upstream O&G & Earth sciences.
-- Now GCP (ACE) Certified, interested/learning DevOps | Terraform | Jenkins | Python | & AWS
+- DevOps | Terraform | Jenkins | Python | GCP | AWS
+- GCP Certified - Associate Cloud Engineer
 
 
 <!---
