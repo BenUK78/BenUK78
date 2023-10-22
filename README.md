@@ -13,6 +13,8 @@
 
 ![](https://img.shields.io/badge/⁠-VS_Code-informational?style=flat&logo=visualstudiocode)
 
+![](https://img.shields.io/badge/⁤-Git-informational?style=flat&logo=git&logoColor=white&color=e88e2e) ![](https://img.shields.io/badge/⁤-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=e88e2e) ![](https://img.shields.io/badge/⁤-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=e88e2e)
+
 <!---
 #- 👀 I’m interested in - many many things. IT, coding, DevOps. Some popular physics, astronomy, car repairs are fun. Psychology. Earth history. Bit of philosophy.
 #- 🌱 I’m currently learning GCP.
