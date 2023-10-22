@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/⁠-Terraform-informational?style=flat&logo=terraform&logoColor=fff) 
 
 
-![](https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=34c258)
+![](https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/⁤-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=34c258)
 
