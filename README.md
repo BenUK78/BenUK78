@@ -13,7 +13,7 @@
 
 ![](https://img.shields.io/badge/⁠-VS_Code-informational?style=flat&logo=visualstudiocode)
 
-![](https://img.shields.io/badge/⁠-VS_Code-informational?style=flat&logo=terraform)
+![](https://img.shields.io/badge/⁠-Terraform-informational?style=flat&logo=terraform)
 
 ![](https://img.shields.io/badge/⁤-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=34c258)
 
