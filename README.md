@@ -1,6 +1,7 @@
 - 👋 Hi, I'm Ben Yates.
 
-<span > [<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="60" />][1] </span> 
+<span > [<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="60" />][1] </span>
+
 [1]: https://www.linkedin.com/in/benuk78/
 
 - 📫 Reach me at benuk78@gmail.com
