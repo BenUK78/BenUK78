@@ -9,11 +9,11 @@
 - Interested in: DevOps | Terraform | Jenkins | GCP | AWS
 - GCP Certified - Associate Cloud Engineer
 
-![](https://img.shields.io/badge/⁠⁠-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/⁠-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/⁠-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/⁠-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/⁠-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/⁠⁠-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/⁠-VS_Code-informational?style=flat&logo=visualstudiocode)
 
-![](https://img.shields.io/badge/⁤-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=34c258)
+![](https://img.shields.io/badge/⁤-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=34c258)
 
 ![](https://img.shields.io/badge/⁤-Git-informational?style=flat&logo=git&logoColor=white&color=e88e2e) ![](https://img.shields.io/badge/⁤-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=e88e2e) ![](https://img.shields.io/badge/⁤-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=e88e2e)
 
