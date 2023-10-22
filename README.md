@@ -7,10 +7,13 @@
 ## 🔧 Tech & Tools
 
 <!-- Find slugs: https://github.com/simple-icons/simple-icons/blob/develop/README.md -->
+<!-- Find badges: https://badges.pages.dev/ -->
 
 ![](https://img.shields.io/badge/⁠-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/⁠-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/⁠⁠-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/⁠-VS_Code-informational?style=flat&logo=visualstudiocode)
+
+![](https://img.shields.io/badge/⁠-VS_Code-informational?style=flat&logo=terraform)
 
 ![](https://img.shields.io/badge/⁤-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=34c258)
 
