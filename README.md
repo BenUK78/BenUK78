@@ -11,7 +11,7 @@
 
 ![](https://img.shields.io/badge/⁠⁠-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/⁠-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/⁠-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
 
-https://img.shields.io/badge/⁠-VS_Code-informational?style=flat&logo=visualstudiocode
+![](https://img.shields.io/badge/⁠-VS_Code-informational?style=flat&logo=visualstudiocode)
 
 <!---
 #- 👀 I’m interested in - many many things. IT, coding, DevOps. Some popular physics, astronomy, car repairs are fun. Psychology. Earth history. Bit of philosophy.
