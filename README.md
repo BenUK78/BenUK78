@@ -6,6 +6,7 @@
 
 - 📫 Reach me at benuk78@gmail.com
 
+
 ## Tech & Tools
 
 <!-- Find slugs: https://github.com/simple-icons/simple-icons/blob/develop/README.md -->
@@ -21,6 +22,8 @@
 
 ![](https://img.shields.io/badge/⁤-Git-informational?style=flat&logo=git&logoColor=white&color=e88e2e) ![](https://img.shields.io/badge/⁤-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=e88e2e) ![](https://img.shields.io/badge/⁤-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=e88e2e)
 
+
+## Details
 
 - 20 years Data Engineering & Analysis globally in upstream O&G & Earth sciences.
 - Interested in: DevOps | Terraform | Jenkins | GCP | AWS
